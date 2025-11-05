@@ -1,4 +1,6 @@
 THis is an example file
 
 hii
-opened on wednesday
+opened on wednesday 
+
+Inserted data
